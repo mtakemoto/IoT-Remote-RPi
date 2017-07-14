@@ -1,0 +1,4 @@
+/boot/config.txt,
+/etc/lirc,
+/etc/rc.local,
+/home/pi/.lirc_web_config.json
