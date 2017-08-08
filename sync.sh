@@ -1,7 +1,8 @@
 configs='
 /boot/config.txt /etc/lirc/hardware.conf /etc/lirc/lircd.conf
 /etc/lirc/lircd_original.conf /etc/lirc/lircmd.conf /etc/rc.local
-/home/pi/.lirc_web_config.json /home/pi/forever.json'
+/home/pi/.lirc_web_config.json /home/pi/forever.json
+/home/pi/.lirc_web_config.json'
 
 # for config in $configs
 # do
