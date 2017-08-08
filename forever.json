@@ -1,0 +1,12 @@
+[
+    {
+        "uid": "lirc_web",
+        "append": true,
+	"watch": true,
+	"script": "app.js",
+	"sourceDir": "/usr/lib/node_modules/lirc_web/",
+	"logFile": "/var/log/IoT-Remote-RPi/forever/lirc_web/logFile.txt",
+	"outFile": "/var/log/IoT-Remote-RPi/forever/lirc_web/outFile.txt",
+	"errFile": "/var/log/IoT-Remote-RPi/forever/lirc_web/errFile.txt"
+    }
+]

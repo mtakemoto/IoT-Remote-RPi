@@ -1,0 +1,21 @@
+{
+  "server" : {
+    "port": 8080
+  },
+  "repeaters" : {
+    "yamaha-amp": {
+      "volume^": true,
+      "KEY_VOLUMEDOWN": true
+    }
+  },
+  "commandLabels": {
+    "yamaha-amp": {
+      "KEY_MUTE": "Mute",
+      "volume^": "Volume Up",
+      "KEY_VOLUMEDOWN": "Volume Down",
+      "KEY_POWER": "Power",
+      "standby": "Standby",
+      "effect": "Effect"
+    }
+  }
+}
